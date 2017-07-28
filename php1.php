@@ -1,0 +1,3 @@
+<?php
+
+phpinfor(1);
